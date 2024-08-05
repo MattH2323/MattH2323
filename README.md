@@ -5,7 +5,7 @@
 ABOUT_ME:
 
 - 😄 He/Him
-- 🚀 Currently a computer science studente at UNIFI, University of Florence
+- 🚀 Currently a computer science student at UNIFI, University of Florence
 - 🌱 Learning Java, C, ASM...
 - 🗡️ Anime and manga enthusiast
 - ♟️ Chess player
