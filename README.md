@@ -1,6 +1,8 @@
-**👋 Hi, I’m @MattH2323**
+ ### **👋 Hi, I’m @MattH2323**
 
-ABOUT ME
+ ---------------------------
+
+ABOUT_ME:
 
 - 😄 He/Him
 - 🚀 Currently a computer science studente at UNIFI, University of Florence
